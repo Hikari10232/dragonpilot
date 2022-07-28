@@ -1,4 +1,4 @@
-dragonpilot 2022.07.28 - EON/C2 Release
+dragonpilot 2022.07.28 - EON/C2 Release 
 ========================
 * NEW: Synced to openpilot 2022.07.27 commits.
 * NEW: Included Mazda vehicles.
